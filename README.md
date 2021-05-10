@@ -1,4 +1,13 @@
 # SaunaKoning-GCS
 
 made by GCS for webber/ Saunakoning
-FHICT Eindhoven
+
+Kaloyan Dragiychev
+
+Canan Canbakis
+
+Megin van Herk   
+
+Victor Cabrerizo Borrego
+
+@FHICT Eindhoven
