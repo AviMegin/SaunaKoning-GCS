@@ -1,0 +1,58 @@
+body{
+
+}
+html{
+
+}
+::-webkit-scrollbar{
+    width: 3px;
+    border-radius: 25px;
+}
+::-webkit-scrollbar-track{
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb{
+    background: #ddd;
+}
+::-webkit-scrollbar-thumb:hover{
+    background: #ccc;}
+
+.container{
+  background-color: #393a47;
+  padding-bottom: 100px;
+  padding-top: 100px;
+  max-width: 970px;
+}
+.form-inline .form-group .form-control{
+  background-color: #393a47;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+border-bottom: 3px solid white;
+}
+.form-inline .btn .btn-default {
+  background: #393a47;
+  border: 3px;
+  border-color: white;
+}
+
+.contact-container{
+  color: #ffffff;
+  width: 100%;
+  height: 500px;
+  background: #393f4a;
+  align-items: center;
+}
+.contact-container .service {
+  margin: 73px 390px 0 410px;
+  font-family:cursive;
+  font-size: 36px;
+}
+.contact-container .info {
+  margin: 31px 168px 0 188px;
+}
+.info-container {
+  width: 100%;
+  height: 400px;
+  background-color: white;
+}
