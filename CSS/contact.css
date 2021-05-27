@@ -16,12 +16,12 @@ html{
 }
 ::-webkit-scrollbar-thumb:hover{
     background: #ccc;}
-
+.white{
+  color: #ffffff;
+}
 .container{
   background-color: #393a47;
-  padding-bottom: 100px;
-  padding-top: 100px;
-  max-width: 970px;
+  width: 100%;
 }
 .form-inline .form-group .form-control{
   background-color: #393a47;
@@ -36,21 +36,7 @@ border-bottom: 3px solid white;
   border-color: white;
 }
 
-.contact-container{
-  color: #ffffff;
-  width: 100%;
-  height: 500px;
-  background: #393f4a;
-  align-items: center;
-}
-.contact-container .service {
-  margin: 73px 390px 0 410px;
-  font-family:cursive;
-  font-size: 36px;
-}
-.contact-container .info {
-  margin: 31px 168px 0 188px;
-}
+
 .info-container {
   width: 100%;
   height: 400px;
